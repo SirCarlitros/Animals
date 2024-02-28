@@ -5,3 +5,4 @@
 -Tiburón Ballena
 -Orca
 -Tiburón
+-Salmón

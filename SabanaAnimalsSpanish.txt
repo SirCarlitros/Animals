@@ -5,4 +5,5 @@ Gacelas
 Guepardos
 Leopardos
 Leones
-Rinoceronte
+Rinocerontes
+Hienas
