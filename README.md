@@ -1,2 +1,2 @@
 # Animals
-This is a project to regerzing our aknowlege in Git 
+This is a project to rehearsing our knowledge in Git
